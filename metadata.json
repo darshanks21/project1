@@ -1,0 +1,6 @@
+{
+  "name": "Discover Your Age",
+  "description": "Every moment tells a story. Discover your exact age in years, months, days, and total days lived.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
